@@ -1,0 +1,14 @@
+# License
+
+**TODO:** The license for this project has not been determined yet.
+
+The project owner must choose and specify the license before the first public release.
+
+Once determined, replace this file with the full license text (e.g., MIT, Apache 2.0, GPL-3.0, etc.) or provide a link to the license file in the main repository.
+
+Suggested options for browser extensions:
+- **MIT License** — permissive, allows reuse with attribution
+- **GNU General Public License v3.0** — copyleft, ensures the code remains open
+- **Mozilla Public License 2.0** — balanced, often used for browser extensions
+
+Contact the project owner to define the license.

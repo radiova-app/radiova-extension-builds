@@ -1,0 +1,12 @@
+{
+  "name": "radiova-extension-builds",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "checksums": "node scripts/generate-checksums.mjs",
+    "validate:release": "node scripts/validate-release.mjs",
+    "update:latest": "node scripts/update-latest.mjs",
+    "prepare:release": "node scripts/prepare-release.mjs",
+    "release:check": "node scripts/validate-release.mjs"
+  }
+}

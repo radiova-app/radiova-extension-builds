@@ -1,0 +1,38 @@
+# System files
+Thumbs.db
+*.DS_Store
+.DS_Store?
+Desktop.ini
+ehthumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.sublime-*
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.vcxproj
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Node.js
+node_modules/
+.npm/
+*.log
+.cache/
+
+# Local release staging (unpacked builds)
+releases/*/staging/
+releases/*/unpacked/
+
+# Environment
+.env
+.env.*
