@@ -1,0 +1,58 @@
+{
+  "version": "v1.1.0",
+  "packageName": "@radiova/extension",
+  "createdAt": "2026-11-25T21:54:54.810Z",
+  "supportedBrowsers": [
+    "chrome",
+    "firefox",
+    "edge",
+    "brave",
+    "opera",
+    "vivaldi"
+  ],
+  "sourceCommit": "8a45e2f26bf069af2d5773d84370448538590c3f",
+  "sourceBranch": "master",
+  "buildTools": {
+    "node": "v24.14.1",
+    "pnpm": "11.15.1",
+    "wxt": "0.21.5"
+  },
+  "browsers": {
+    "chrome": {
+      "file": "chrome/radiova-chrome-v1.1.0.zip",
+      "manifestVersion": 3,
+      "sha256": "a14311d6455adc66f3d2fd77906b7411a5db732f901e407b2b8c7d58c81627c2",
+      "size": 202375
+    },
+    "firefox": {
+      "file": "firefox/radiova-firefox-v1.1.0.zip",
+      "manifestVersion": 2,
+      "sha256": "b1470e1ff740c84483e36c56f34dc0268e49e052e9c150543630d9ffac42f2fa",
+      "size": 202581
+    },
+    "edge": {
+      "file": "edge/radiova-edge-v1.1.0.zip",
+      "manifestVersion": 3,
+      "sha256": "a14311d6455adc66f3d2fd77906b7411a5db732f901e407b2b8c7d58c81627c2",
+      "size": 202375
+    },
+    "brave": {
+      "file": "brave/radiova-brave-v1.1.0.zip",
+      "manifestVersion": 3,
+      "sha256": "a14311d6455adc66f3d2fd77906b7411a5db732f901e407b2b8c7d58c81627c2",
+      "size": 202375
+    },
+    "opera": {
+      "file": "opera/radiova-opera-v1.1.0.zip",
+      "manifestVersion": 3,
+      "sha256": "a14311d6455adc66f3d2fd77906b7411a5db732f901e407b2b8c7d58c81627c2",
+      "size": 202375
+    },
+    "vivaldi": {
+      "file": "vivaldi/radiova-vivaldi-v1.1.0.zip",
+      "manifestVersion": 3,
+      "sha256": "a14311d6455adc66f3d2fd77906b7411a5db732f901e407b2b8c7d58c81627c2",
+      "size": 202375
+    }
+  }
+}

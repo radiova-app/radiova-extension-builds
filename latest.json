@@ -1,24 +1,24 @@
 {
-  "version": null,
-  "publishedAt": null,
+  "version": "v1.1.0",
+  "publishedAt": "2026-11-25T21:54:54.810Z",
   "releaseNotes": {
-    "en": null,
-    "uk": null
+    "en": "releases/v1.1.0/release-notes.md",
+    "uk": "releases/v1.1.0/release-notes.uk.md"
   },
   "downloads": {
-    "chrome": null,
-    "edge": null,
-    "firefox": null,
-    "opera": null,
-    "brave": null,
-    "vivaldi": null
+    "chrome": "releases/v1.1.0/chrome/radiova-chrome-v1.1.0.zip",
+    "edge": "releases/v1.1.0/edge/radiova-edge-v1.1.0.zip",
+    "firefox": "releases/v1.1.0/firefox/radiova-firefox-v1.1.0.zip",
+    "opera": "releases/v1.1.0/opera/radiova-opera-v1.1.0.zip",
+    "brave": "releases/v1.1.0/brave/radiova-brave-v1.1.0.zip",
+    "vivaldi": "releases/v1.1.0/vivaldi/radiova-vivaldi-v1.1.0.zip"
   },
   "checksums": {
-    "chrome": null,
-    "edge": null,
-    "firefox": null,
-    "opera": null,
-    "brave": null,
-    "vivaldi": null
+    "chrome": "a14311d6455adc66f3d2fd77906b7411a5db732f901e407b2b8c7d58c81627c2",
+    "edge": "a14311d6455adc66f3d2fd77906b7411a5db732f901e407b2b8c7d58c81627c2",
+    "firefox": "b1470e1ff740c84483e36c56f34dc0268e49e052e9c150543630d9ffac42f2fa",
+    "opera": "a14311d6455adc66f3d2fd77906b7411a5db732f901e407b2b8c7d58c81627c2",
+    "brave": "a14311d6455adc66f3d2fd77906b7411a5db732f901e407b2b8c7d58c81627c2",
+    "vivaldi": "a14311d6455adc66f3d2fd77906b7411a5db732f901e407b2b8c7d58c81627c2"
   }
 }
